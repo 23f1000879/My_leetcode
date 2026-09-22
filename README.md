@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/23f1000879/My_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/23f1000879/My_leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/23f1000879/My_leetcode/tree/master/0238-product-of-array-except-self) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/23f1000879/My_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/23f1000879/My_leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
