@@ -5,9 +5,8 @@ class Solution(object):
         :rtype: str
         """
         word = s.split()
-        for i in range(len(word)):
-            if i<(len(word)-1-i):
-                word[i], word[len(word)-1-i] = word[len(word)-1-i], word[i]
+        word = word[::-1]
         result = " ".join(word)
         return result
+        
         
